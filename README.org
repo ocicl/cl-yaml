@@ -1,0 +1,9 @@
+* cl-yaml
+
+YAML parser for Common Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/eudoxia0/cl-yaml.git |
+| commit  | 12c84d4                                     |
+| systems | cl-yaml                                     |
+|---------+---------------------------------------------|
